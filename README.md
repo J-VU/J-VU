@@ -3,8 +3,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-VU&hide_border=true&layout=compact)
 
-![](https://img.shields.io/badge/code-node.js-ghfdgh?style=for-the-badge&logo=node.js) ![](https://img.shields.io/badge/framework-ReactJS-ghfdgh?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/code-TypeScript-ghfdgh?style=for-the-badge&logo=typescript) ![](https://img.shields.io/badge/software-docker-ghfdgh?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/editor-vscode-green?style=for-the-badge&logo=visual-studio-code) ![](https://img.shields.io/badge/code-node.js-green?style=for-the-badge&logo=node.js) ![](https://img.shields.io/badge/framework-ReactJS-green?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/code-TypeScript-green?style=for-the-badge&logo=typescript) ![](https://img.shields.io/badge/software-docker-green?style=for-the-badge&logo=docker)
 
 
 
 
+https://img.shields.io/badge/editor-vscode-green?style=for-the-badge&logo=visual-studio-code
