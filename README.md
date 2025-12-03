@@ -1,4 +1,4 @@
-### 🍭 Software Engineer
+### Software Engineer
 [![J-VU's github stats](https://github-readme-stats.vercel.app/api?username=J-VU&custom_title=J-VU&nbsp;Status&count_private=true&theme=ayu-mirage&show_icons=true&hide=stars&hide_border=true)](https://www.linkedin.com/in/joseph-vu-620550a9/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-VU&theme=ayu-mirage&hide_border=true&layout=compact)
